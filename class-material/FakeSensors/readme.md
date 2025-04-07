@@ -15,7 +15,7 @@ Acompañemiento del BOT: https://chatgpt.com/g/g-67e4731b422481919463f4b52818e9c
 | FLORES RAMIREZ EMILIANO RAFAEL | Sensor de gas (MQ-2) | Sensor de vibración (SW-420) |----Poner aqui---|
 | GARCIA ORNELAS JUAN CARLOS | Sensor PIR (movimiento) | Sensor de CO2 (MH-Z19B) |-----Poner aqui--|
 | GARCIA SANTOS JONATHAN | Sensor de presión barométrica (BMP280) | Sensor de sonido (MAX4466) |----Poner aqui----|
-| GUTIERREZ CEPEDA ANDRES | Sensor de pulso cardíaco (MAX30100) | Sensor de temperatura infrarrojo (MLX90614) |----Poner aqui--|
+| GUTIERREZ CEPEDA ANDRES | Sensor de pulso cardíaco (MAX30100) | Sensor de temperatura infrarrojo (MLX90614) |----[Poner aqui](https://gist.github.com/pitonC/13aa161a9784fa3e3350ebd7416d6f9a)--|
 | IÑIGUEZ GALLEGO CARLOS ALBERTO | Sensor de distancia láser (VL53L0X) | Sensor de voltaje (ZMPT101B) |---Poner aqui----|
 | LUA VELASCO JORGE ALEXIS | Sensor de inclinación | Sensor de humedad relativa (SHT31) |----Poner aqui--|
 | LUNA GOMEZ JESUS URIEL | Sensor magnético (Reed Switch) | Sensor de peso (HX711 + celda) |---Poner aqui----|
